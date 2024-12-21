@@ -1,0 +1,19 @@
+.same-style{
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: hsl(344, 100%, 85%)
+}
+
+#one-id{
+    color: hsl(241, 100%, 58%);
+    font-size: 36px;
+}
+
+#second-id{
+    background-color: hsl(135, 77%, 58%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.same-style.diff-size{
+    font-size: 24px;
+}
