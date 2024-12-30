@@ -1,0 +1,20 @@
+/* answer 1 */
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* div .text{
+    color: red;
+    font-size: 20px;
+    background-color: yellow;
+    text-align: center;
+} */
+
+/* 
+.container p
+div p
+*/
